@@ -12,7 +12,7 @@
 *
 * ======================================================= */
 body {
-  font-family: 'Hurricane', cursive, Arial, sans-serif;
+  font-family: 'Ubuntu', sans-serif, Arial;
   font-weight: 300;
   font-size: 20px;
   line-height: 1.5;
