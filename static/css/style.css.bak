@@ -62,8 +62,13 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .responsive {
-  width: 500px;
+  width: 50%;
   }
+  @media only screen and (max-width: 480px) {
+  img {
+    width: 100%;
+  }
+}
 
 .edge--bottom {
   position: relative;
