@@ -60,6 +60,11 @@ h1, h2, h3, h4, h5, h6 {
   background: #f9f6f0;
 }
 
+@media only screen and (max-width: 480px) {
+img {
+width: 100%;
+}
+}
 
 .edge--bottom {
   position: relative;
@@ -371,7 +376,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #fh5co-home {
   background-color: transparent;
-  background-size: auto auto;
+  background-size: cover;
   background-attachment: fixed;
   position: relative;
   width: 100%;
