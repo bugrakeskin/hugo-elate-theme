@@ -43,8 +43,8 @@ languageCode = "en-us"
   
   # Hero section
   [params.hero]
-    title = "Becoming One With Nature Eutierria"
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "Becoming One With Nature."
+    subtitle = 'Remember, the earth does not need humans to live, but we need the earth. If we do not awaken to the truth that we are all connected and live an earth-centered life, then we may not be able to continue to live on this planet.'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
