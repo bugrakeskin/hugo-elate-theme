@@ -52,7 +52,7 @@ languageCode = "en-us"
 
   [[params.intro.item]]
     title = "Carbon Footprint"
-    description = "Building zero carbon homes used to a largely impossible dream but thanks to technological advances, it's now possible to increase the energy efficiency in new buildings and renovations without compromising on aesthetics, safety and comfort."
+    description = "Building zero carbon homes used to a largely impossible dream but thanks to technological advances, it's now possible to increase the energy efficiency in new buildings and renovations."
     url = "#"
     button = "Get In Touch"
     icon = ".icon-magic-wand"
