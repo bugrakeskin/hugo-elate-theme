@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .responsive {
   width: 500px;
-  max-height: %80;
+  max-height: 80%;
 }
 
 .edge--bottom {
